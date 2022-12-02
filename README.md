@@ -1,4 +1,4 @@
-# M3_weekend_practice
+# M3 Suggested Weekend Practice
 
 ## Weekend 1 Suggested Items To Work On
 
