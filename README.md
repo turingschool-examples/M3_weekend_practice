@@ -14,7 +14,7 @@
 4. [Students and Cohorts API](https://github.com/turingschool-examples/students_and_cohorts_api) -- A bulding API challenge. If you've reviewed Building an API, looked over the lesson, and want to try it out, this is a great repo to try it with. 
 
 
-## Weekend 1 Suggested Items To Work On
+## Weekend 2 Suggested Items To Work On
 
 ### Review from Week 2:
 1. AR challenge - If you did not get to finish the AR review and try out the AR challenge, please find time this weekend to do just that. Directions are linked in the calendar event from Friday. 
