@@ -12,3 +12,16 @@
 2. Read over [JSON for API Development](https://backend.turing.edu/module3/notes/json_for_api_development.html) -- We'll be creating APIs that render JSON. Do some prep work to understand what JSON is, and what the [specifications](https://jsonapi.org/) are.
 3. Review [Building an API](https://backend.turing.edu/module3/lessons/building_a_rails_api) -- read through Monday's lesson on building an API. A little prep before the lesson, will help you get the most out of the class! Come prepared with questions you have, and make sure they get answered by the end of class.  
 4. [Students and Cohorts API](https://github.com/turingschool-examples/students_and_cohorts_api) -- A bulding API challenge. If you've reviewed Building an API, looked over the lesson, and want to try it out, this is a great repo to try it with. 
+
+
+## Weekend 1 Suggested Items To Work On
+
+### Review from Week 2:
+1. AR challenge - If you did not get to finish the AR review and try out the AR challenge, please find time this weekend to do just that. Directions are linked in the calendar event from Friday. 
+2. With any feedback you got on Rails Engine Lite, refactor your project. You can send Mike and myself a link to your repo, and tell us where to look, and we can get you more feedback sometime next week.
+3. [Students and Cohorts API](https://github.com/turingschool-examples/students_and_cohorts_api) - Building an API practice (beginner to mid level of difficulty), directions are in readme. [Here](https://drive.google.com/file/d/1-VRF8ouAYov5lVOMkLmigmG7vc-8ohhb/view?usp=sharing) is a review of this challenge. 
+
+### Prep for Week 3:
+1. Review your Viewing Party Projects -- we will look at them again on Monday. There will be an option to use a starter repo for the challenges throughout the week, but we suggest you use your own project. (Functionality for creating a viewing party is not necessary for the challenges that you'll be trying out)
+2. Do a little research on Cookies and Sessions. [Here](https://www.youtube.com/watch?v=64veb6tKTm0) is a nice video to get you started.
+3. Do a little research on Service Oriented Architecture. [Here](https://www.google.com/search?q=service+oriented+architecture+for+beginners&rlz=1C5CHFA_enUS951US952&tbm=vid&sxsrf=ALiCzsYVJ-v0F6KxhqDsMB5A4qxUtugoMg:1670537303383&ei=V2CSY9f_FvS70PEPqsiCqA0&start=10&sa=N&ved=2ahUKEwiXh7W0hOv7AhX0HTQIHSqkANUQ8tMDegQIFBAE&biw=1706&bih=894&dpr=1#fpstate=ive&vld=cid:e8e47e15,vid:7s_S5Hkm7z0) is a nice video to get you started.
