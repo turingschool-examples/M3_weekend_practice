@@ -42,6 +42,7 @@
 
 ### Ruby Review
 * [Mod 1 Week 6 IC](https://github.com/turingschool-examples/food_truck_event_2210) 
+* [MasterMind Project](https://backend.turing.edu/module1/projects/mastermind) - similar level of difficulty as Battleship (maybe a bit easier)
 
 ### Pitch an Idea!
 Get ready to pitch an idea for the Consultancy project when you come back. Take a look over [this doc](https://backend.turing.edu/module3/projects/consultancy/ideation) to get some ideas, and understand how to best come prepared to pitch a project. 
