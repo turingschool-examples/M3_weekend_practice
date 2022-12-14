@@ -28,7 +28,7 @@
 4. Find a challenge on [Leetcode](https://leetcode.com/problemset/all). (I suggest an 'easy' one, as they can be quite difficult), timebox yourself to an hour, and see if you can complete it. (Note: I'll usually read through the challenge and perform it in a text editor that's familiar to me. Then, when I think I have a solution, I'll paste my code in the IDE and run it to see if it passes Leetcode's expectation).
 
 
-## Winter Break Suggested Items To Work On
+## ❄️ Winter Break Suggested Items To Work On ❄️
 
 ### Review from Week 3
 * [Authentication Challenge](https://gist.github.com/megstang/9b05dd5515d1f9e13e674a14d56b2ae0) -- [Authentication Challenge Walk Through](https://drive.google.com/file/d/1xRxLHDEDfshfhKNGviUgxJBqSsHbAuOX/view?usp=sharing)
