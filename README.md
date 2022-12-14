@@ -30,6 +30,8 @@
 
 ## ❄️ Winter Break Suggested Items To Work On ❄️
 
+**Mandatory:** Sign up for [Heroku Student Account](https://www.heroku.com/github-students) with your `turing.edu` email address. 
+
 ### Review from Week 3
 * [Authentication Challenge](https://gist.github.com/megstang/9b05dd5515d1f9e13e674a14d56b2ae0) -- [Authentication Challenge Walk Through](https://drive.google.com/file/d/1xRxLHDEDfshfhKNGviUgxJBqSsHbAuOX/view?usp=sharing)
 * [Authorization Challenge](https://gist.github.com/megstang/a5d0399a590cf98ed10fd422427074b5) - [Authorization Challenge Walk Through](https://drive.google.com/file/d/1nQ3ZFPpm2nIItiTeYAEcnI8i5rgpg8vf/view?usp=sharing)
