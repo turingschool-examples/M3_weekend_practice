@@ -40,7 +40,7 @@
 * [Market Money](https://github.com/turingschool-examples/market_money)
 * [Last inning's Mid Mod](https://github.com/turingschool-examples/quote_finder) -- [Mid Mod Walk Through](https://drive.google.com/file/d/1cuyWDAYi1FRUBSzqq2-jc_Q0zlO9XErk/view?usp=share_link)
 
-### Ruby Review (Interview Prep)
+### Ruby Review
 * [Mod 1 Week 6 IC](https://github.com/turingschool-examples/food_truck_event_2210) 
 
 ### Pitch an Idea!
