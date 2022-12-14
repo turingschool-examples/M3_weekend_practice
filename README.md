@@ -26,3 +26,24 @@
 2. Do a little research on Cookies and Sessions. [Here](https://www.youtube.com/watch?v=64veb6tKTm0) is a nice video to get you started.
 3. Do a little research on Service Oriented Architecture. [Here](https://www.google.com/search?q=service+oriented+architecture+for+beginners&rlz=1C5CHFA_enUS951US952&tbm=vid&sxsrf=ALiCzsYVJ-v0F6KxhqDsMB5A4qxUtugoMg:1670537303383&ei=V2CSY9f_FvS70PEPqsiCqA0&start=10&sa=N&ved=2ahUKEwiXh7W0hOv7AhX0HTQIHSqkANUQ8tMDegQIFBAE&biw=1706&bih=894&dpr=1#fpstate=ive&vld=cid:e8e47e15,vid:7s_S5Hkm7z0) is a nice video to get you started.
 4. Find a challenge on [Leetcode](https://leetcode.com/problemset/all). (I suggest an 'easy' one, as they can be quite difficult), timebox yourself to an hour, and see if you can complete it. (Note: I'll usually read through the challenge and perform it in a text editor that's familiar to me. Then, when I think I have a solution, I'll paste my code in the IDE and run it to see if it passes Leetcode's expectation).
+
+
+## Winter Break Suggested Items To Work On
+
+### Review from Week 3
+* [Authentication Challenge](https://gist.github.com/megstang/9b05dd5515d1f9e13e674a14d56b2ae0) -- [Authentication Challenge Walk Through](https://drive.google.com/file/d/1xRxLHDEDfshfhKNGviUgxJBqSsHbAuOX/view?usp=sharing)
+* [Authorization Challenge](https://gist.github.com/megstang/a5d0399a590cf98ed10fd422427074b5) - [Authorization Challenge Walk Through](https://drive.google.com/file/d/1nQ3ZFPpm2nIItiTeYAEcnI8i5rgpg8vf/view?usp=sharing)
+* [SOA Challenge](https://github.com/turingschool-examples/rails_engine_fe) -- [SOA Challenge Walk Through](https://drive.google.com/file/d/1Ag0YNyVWrtiEghf-L7pWzVYTyBxyiIz8/view?usp=sharing)
+* Mid Mod Walk through will be posted at end of week
+
+### Review of Building/Consuming APIs
+* [Market Money](https://github.com/turingschool-examples/market_money)
+* [Last inning's Mid Mod](https://github.com/turingschool-examples/quote_finder) -- [Mid Mod Walk Through](https://drive.google.com/file/d/1cuyWDAYi1FRUBSzqq2-jc_Q0zlO9XErk/view?usp=share_link)
+
+### Ruby Review (Interview Prep)
+* [Mod 1 Week 6 IC](https://github.com/turingschool-examples/food_truck_event_2210) 
+
+### Pitch an Idea!
+Get ready to pitch an idea for the Consultancy project when you come back. Take a look over [this doc](https://backend.turing.edu/module3/projects/consultancy/ideation) to get some ideas, and understand how to best come prepared to pitch a project. 
+
+
