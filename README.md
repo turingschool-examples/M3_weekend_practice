@@ -3,7 +3,7 @@
 ## Weekend 1 Suggested Items To Work On
 
 ### Review from Week 1:
-1. [Activity Finder](https://github.com/turingschool-examples/activity_finder) -- A new consuming API challenge. 
+1. [Activity Finder](https://github.com/turingschool-examples/activity_finder) -- Consuming an API challenge. 
 2. [Consuming APIs Practice](https://github.com/turingschool-examples/m3_exercises) -- This practice focuses on the process of making a Faraday connection, and getting data from APIs. Specifically, it works on creating services.
 3. [Parks Finder](https://github.com/turingschool-examples/parks_finder) -- Although this is prep for the mid mod, the mid mod will also be on consuming APIs. Y’all just got some practice with that this week! So, believe it or not, you’re ready to put those skills back into action with this practice mid mod. 
 
@@ -28,19 +28,13 @@
 4. Find a challenge on [Leetcode](https://leetcode.com/problemset/all). (I suggest an 'easy' one, as they can be quite difficult), timebox yourself to an hour, and see if you can complete it. (Note: I'll usually read through the challenge and perform it in a text editor that's familiar to me. Then, when I think I have a solution, I'll paste my code in the IDE and run it to see if it passes Leetcode's expectation).
 
 
-## ❄️ Winter Break Suggested Items To Work On ❄️
-
-**Mandatory:** Sign up for [Heroku Student Account](https://www.heroku.com/github-students) with your `turing.edu` email address. 
+## Weekend 3 Suggested Items To Work On
 
 ### Review from Week 3
 * [Authentication Challenge](https://gist.github.com/megstang/9b05dd5515d1f9e13e674a14d56b2ae0) -- [Authentication Challenge Walk Through](https://drive.google.com/file/d/1xRxLHDEDfshfhKNGviUgxJBqSsHbAuOX/view?usp=sharing)
 * [Authorization Challenge](https://gist.github.com/megstang/a5d0399a590cf98ed10fd422427074b5) - [Authorization Challenge Walk Through](https://drive.google.com/file/d/1nQ3ZFPpm2nIItiTeYAEcnI8i5rgpg8vf/view?usp=sharing)
 * [SOA Challenge](https://github.com/turingschool-examples/rails_engine_fe) -- [SOA Challenge Walk Through](https://drive.google.com/file/d/1Ag0YNyVWrtiEghf-L7pWzVYTyBxyiIz8/view?usp=sharing)
 * [Mid Mod Walk through](https://vimeo.com/471225559/250df09514)
-
-### Review of Building/Consuming APIs
-* [Market Money](https://github.com/turingschool-examples/market_money)
-* [Last inning's Mid Mod](https://github.com/turingschool-examples/quote_finder) -- [Mid Mod Walk Through](https://drive.google.com/file/d/1cuyWDAYi1FRUBSzqq2-jc_Q0zlO9XErk/view?usp=share_link)
 
 ### Ruby Review
 * [Mod 1 Week 6 IC](https://github.com/turingschool-examples/food_truck_event_2210) 
