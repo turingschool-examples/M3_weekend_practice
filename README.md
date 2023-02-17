@@ -36,7 +36,7 @@ Get ready to pitch an idea for the Consultancy project. Take a look over [this d
 * [Authentication Challenge](https://gist.github.com/megstang/9b05dd5515d1f9e13e674a14d56b2ae0) -- [Authentication Challenge Walk Through](https://drive.google.com/file/d/1xRxLHDEDfshfhKNGviUgxJBqSsHbAuOX/view?usp=sharing)
 * [Authorization Challenge](https://gist.github.com/megstang/a5d0399a590cf98ed10fd422427074b5) - [Authorization Challenge Walk Through](https://drive.google.com/file/d/1nQ3ZFPpm2nIItiTeYAEcnI8i5rgpg8vf/view?usp=sharing)
 * [SOA Challenge](https://github.com/turingschool-examples/rails_engine_fe) -- [SOA Challenge Walk Through](https://drive.google.com/file/d/1Ag0YNyVWrtiEghf-L7pWzVYTyBxyiIz8/view?usp=sharing)
-& [Last Airbender Mid Mod Walk Through](https://vimeo.com/441952469/0ae1c3e671)
+* [Last Airbender Mid Mod Walk Through](https://vimeo.com/441952469/0ae1c3e671)
 
 ### Ruby Review
 * [Mod 1 Week 6 IC](https://github.com/turingschool-examples/food_truck_event_2210) 
