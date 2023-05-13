@@ -5,7 +5,7 @@
 ### Review from Week 1:
 1. [Activity Finder](https://github.com/turingschool-examples/activity_finder) -- Consuming an API challenge. 
 2. [Consuming APIs Practice](https://github.com/turingschool-examples/m3_exercises) -- This practice focuses on the process of making a Faraday connection, and getting data from APIs. Specifically, it works on creating services.
-3. [Parks Finder](https://github.com/turingschool-examples/parks_finder) -- Although this is prep for the mid mod, the mid mod will also be on consuming APIs. Y’all just got some practice with that this week! So, believe it or not, you’re ready to put those skills back into action with this practice mid mod. 
+3. [Parks Finder](https://github.com/turingschool-examples/parks-finder-7) -- Although this is prep for the mid mod, the mid mod will also be on consuming APIs. Y’all just got some practice with that this week! So, believe it or not, you’re ready to put those skills back into action with this practice mid mod. 
 
 ### Prep for Week 2:
 1. Review [Namespacing](https://backend.turing.edu/module3/archive/lessons/namespacing) -- As you get into your next project, namespacing will become handy. Take some time this weekend to review Namespacing and why it's used. 
