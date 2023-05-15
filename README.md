@@ -19,7 +19,7 @@
 ### Review from Week 2:
 1. AR challenge - If you did not get to finish the AR review and try out the AR challenge, please find time this weekend to do just that. Directions are linked in the calendar event from Friday. 
 2. With any feedback you got on Rails Engine Lite, refactor your project. You can send Mike and myself a link to your repo, and tell us where to look, and we can get you more feedback sometime next week.
-3. [Students and Cohorts API](https://github.com/turingschool-examples/students_and_cohorts_api) - Building an API practice (beginner to mid level of difficulty), directions are in readme. [Here](https://drive.google.com/file/d/1-VRF8ouAYov5lVOMkLmigmG7vc-8ohhb/view?usp=sharing) is a review of this challenge. 
+3. [Students and Cohorts API](https://github.com/turingschool-examples/students-and-cohorts-api-7) - Building an API practice (beginner to mid level of difficulty), directions are in readme. [Here](https://drive.google.com/file/d/1-VRF8ouAYov5lVOMkLmigmG7vc-8ohhb/view?usp=sharing) is a review of this challenge. 
 
 ### Prep for Week 3:
 1. Review your Viewing Party Projects -- we will look at them again on Monday. There will be an option to use a starter repo for the challenges throughout the week, but we suggest you use your own project. (Functionality for creating a viewing party is not necessary for the challenges that you'll be trying out)
